@@ -115,8 +115,8 @@ project:
         + Developed a machine learning project to forecast performance of an individual stock.
         + Delivered project outcomes that exceeded the target by achieving a 10% increase in accuracy
 
-    - name: Heart Disease Prediction
-      link: '#'
+    - name: Disease Prediction
+      link: https://github.com/Gautam3767/Disease-Prediction
       tags:  Python, Flask, MySQL, Scikit-learn,TensorFlow
       date: 2023.11 - 2023.12
       description: |
