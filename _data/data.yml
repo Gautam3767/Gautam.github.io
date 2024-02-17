@@ -124,7 +124,7 @@ project:
         + Demonstrated strong analytical and problem-solving skills through the implementation of group coordination techniques, including version control with GitHub, to ensure efficient collaboration and project management.
 
     - name: Sales Dashboard Project - Data Engineering and Visualization
-      link:
+      link: https://github.com/Gautam3767/Sales-management-dashboard
       tags: Python, MySQL, Tableau, Power BI
       date: 2023.12 - 2024.01
       description: |
