@@ -162,6 +162,7 @@ skill:
         - Power BI
         - Pycharm
         - Intellij
+        - Kubernetes
     - name: Liberaries
       item:
         - Pandas
