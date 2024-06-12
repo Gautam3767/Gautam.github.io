@@ -149,11 +149,11 @@ skill:
   groups:
     - name: Languages and Frameworks
       item:
-        - Java
         - Python
-        - My SQL/SQL
-        - Javascript
+        - Golang
+        - My SQL/SQLite
         - HTML/CSS
+        - Javascript
         - Node JS
         - React
         - Flask
