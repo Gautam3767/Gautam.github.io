@@ -132,7 +132,13 @@ project:
         + Created interactive sales dashboards utilizing Tableau, Power BI, and SQL to analyze sales data and ensure seamless content delivery from diverse sources
     
         + Analyzed sales data to drive product enhancements, researched AI tools, and proposed predictive models for optimizing product performance and user engagement.
-
+    
+    - name: Pincode Directory Webapp using Go & JS
+      link: '#'
+      tags: Golang, Docker, SQLite, Railways
+      date: 2024.05 - 2024.05
+      description: |
+        + Developed a web application using Golang and SQLite for managing Indian pincode data, featuring robust CRUD APIs and advanced search capabilities by district, state, pincode, and locality. Implemented a JavaScript-based frontend for interactive data search and filtering, and deployed the application using Docker for consistent performance across environments
 
 
 skill:
